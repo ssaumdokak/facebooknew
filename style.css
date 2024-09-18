@@ -14,6 +14,12 @@ body {
     margin-left: -540px;
 }
 
+.question-mark {
+  font-size: 80px; /* розмір знаку питання */
+  font-weight: bold; /* жирний шрифт */
+  color: #333; /* колір знаку питання */
+}
+
 nav {
     display: flex;
     align-items: center;
