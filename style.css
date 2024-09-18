@@ -18,7 +18,10 @@ body {
   font-size: 80px; /* розмір знаку питання */
   font-weight: bold; /* жирний шрифт */
   color: #333; /* колір знаку питання */
+  padding-left: 20px; /* відступ зліва */
+  padding-right: 20px; /* відступ справа */
 }
+
 
 nav {
     display: flex;
